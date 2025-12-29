@@ -3,6 +3,10 @@
 这是一套专为 DIY 爱好者和工业设计师准备的移动电源外壳及结构开源方案。本设计采用了极具机械感的透明外壳方案，并结合铝合金骨架提高整体强度和散热能力。
 
 ## 预览图
+![img](https://github.com/shargetech/SHARGE-STORM2-ID/blob/main/Images/black.png)
+![img](https://github.com/shargetech/SHARGE-STORM2-ID/blob/main/Images/white.png)
+![img](https://github.com/shargetech/SHARGE-STORM2-ID/blob/main/Images/Exploded%20View.png)
+
 
 ## 项目包含内容
 
@@ -20,7 +24,7 @@
 
 ## 开源许可协议
 
-本项目采用 **[CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)** 进行许可。
+本项目采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)** 进行许可。
 
 ### 权利与义务：
 
@@ -69,7 +73,9 @@ This repository provides the complete engineering files required to replicate or
 
 ## License
 
-This project is licensed under CC BY-NC-SA 4.0.
+This project is licensed under **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)** .
+
+.
 
 ### Rights and Obligations:
 

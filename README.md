@@ -51,7 +51,6 @@
 1. 作者不对因使用本项目文件导致的任何硬件损坏或人身伤害负责。
 2. 在进行任何组装前，请确保你具备基础的电工知识并佩戴防护装备。
 
-# README
 
 # Shargeek Storm2 Power Bank Industrial Design (ID Design)
 
